@@ -11,7 +11,7 @@ This repository is a collection of my data science projects where I dive deep in
 | [**Rainfall Trend in India (1901-2015)**](/Rainfall-Trend-in-India.ipynb)                      | Analyze rainfall patterns across India, uncover trends, and predict future rainfall for better resource management and agricultural planning.           | Long-term trends, seasonal patterns, and forecasting of future rainfall.      | 
 | [**Store Sales and Profit Analysis**](/Super-store-profit-analysis.ipynb)                   | Analyze sales, profit margins, and discount effects to identify trends and improve profitability.    | Sales trends, profitable products, regional performance, discount impact.  |
 | [**Food Delivery Cost and Profitability Analysis**](/Food-Delivery-Cost-and-Profitability-Analysis.ipynb) | Examines cost structure, profitability, and discount strategies for a food delivery service.                       | Peak order times, discount impact on profits, optimized pricing strategies.            | 
-
+| [**Falcon 9 Landing Prediction**](/SpaceX-Falcon9-Landing-Prediction/)           | Analyze SpaceX Falcon 9 launch data and predict landing success to estimate launch costs.    | Success rate trends by year, orbit, and site; cost implications of first stage reusability.
 ---
 
 ## Data Science Skills Showcase 
